@@ -12,7 +12,7 @@ public class Practicas_ED {
 		double numero2 = scanner.nextDouble();      
 		double resultadoSuma = sumar(numero1, numero2);
 		double resultadoResta = restar(numero1, numero2);
-		System.out.println("Resultado de la suma: " + resultadoSuma);
+		System.out.println("Resultado de la suma: " + resultadoSuma);//cambios que no se
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		scanner.close();
 	}
@@ -22,6 +22,6 @@ public class Practicas_ED {
 	}
 		public static double restar(double a, double b)
 	{
-		return a - b + 134;
+		return a - b;//ESTE ES EL CAMBIO
 	}
 }
