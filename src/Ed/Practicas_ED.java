@@ -1,7 +1,14 @@
 package Ed;
 import java.util.Scanner;
 public class Practicas_ED {
-
+	/*
+	 * Comentario con Javadoc
+	 * 
+	 * Hola
+	 * 
+	 * Adios
+	 * 
+	 */
 	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
@@ -22,6 +29,6 @@ public class Practicas_ED {
 	}
 		public static double restar(double a, double b)
 	{
-		return a - b * 200;//ESTE ES EL CAMBIO----------------------------------------------------Tag
+		return a - b * 200;//ESTE ES EL CAMBIO----Tag
 	}
 }
