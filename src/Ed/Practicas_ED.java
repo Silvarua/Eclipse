@@ -22,6 +22,6 @@ public class Practicas_ED {
 	}
 		public static double restar(double a, double b)
 	{
-		return a - b * 200;//ESTE ES EL CAMBIO *
+		return a - b * 200;//ESTE ES EL CAMBIO----------------------------------------------------
 	}
 }
